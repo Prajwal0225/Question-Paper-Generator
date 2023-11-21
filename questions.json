@@ -1,0 +1,425 @@
+{
+    "questions": [
+      {
+        "question": "What is Newton's first law of motion?",
+        "subject": "Physics",
+        "topic": "Laws of Motion",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the chemical symbol for hydrogen?",
+        "subject": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the value of π (pi)?",
+        "subject": "Mathematics",
+        "topic": "Constants",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Define acceleration.",
+        "subject": "Physics",
+        "topic": "Motion",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the atomic number of carbon?",
+        "subject": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Solve for x: 3x + 7 = 16",
+        "subject": "Mathematics",
+        "topic": "Equations",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Explain the concept of force.",
+        "subject": "Physics",
+        "topic": "Forces",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the pH of a neutral solution?",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the formula for the area of a rectangle?",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the SI unit of temperature?",
+        "subject": "Physics",
+        "topic": "Units and Measurements",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the formula for speed?",
+        "subject": "Physics",
+        "topic": "Kinematics",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "subject": "Chemistry",
+        "topic": "Compounds",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Solve for y: 2y - 5 = 11",
+        "subject": "Mathematics",
+        "topic": "Equations",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Define gravity.",
+        "subject": "Physics",
+        "topic": "Forces",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the atomic mass of oxygen?",
+        "subject": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the value of sin(90 degrees)?",
+        "subject": "Mathematics",
+        "topic": "Trigonometry",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Explain the concept of energy.",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the atomic number of helium?",
+        "subject": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the formula for the volume of a sphere?",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the SI unit of electric current?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "What is the equation for projectile motion?",
+        "subject": "Physics",
+        "topic": "Motion",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Balanced the following chemical equation: H2 + O2 = H2O",
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Solve the system of equations: 2x + y = 5, 3x - y = 7",
+        "subject": "Mathematics",
+        "topic": "Systems of Equations",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Explain the concept of work-energy theorem.",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "What are isotopes?",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Solve for θ in a right-angled triangle with sides 3, 4, θ.",
+        "subject": "Mathematics",
+        "topic": "Trigonometry",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Explain the process of magnetic induction.",
+        "subject": "Physics",
+        "topic": "Magnetism",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Find the area of a trapezoid with bases 5 and 7, and height 4.",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "What is Ohm's Law?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "What is the formula for calculating kinetic energy?",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Define entropy in thermodynamics.",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Find the value of log base 2 of 8.",
+        "subject": "Mathematics",
+        "topic": "Logarithms",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Explain the concept of electric potential.",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "What are valence electrons?",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Solve the trigonometric equation: sin(x) = 0.5",
+        "subject": "Mathematics",
+        "topic": "Trigonometry",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Explain the concept of nuclear fusion.",
+        "subject": "Physics",
+        "topic": "Nuclear Physics",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "What is the chemical formula for ammonia?",
+        "subject": "Chemistry",
+        "topic": "Chemical Compounds",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Find the area of a circle with radius 6 units.",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Define magnetic field intensity.",
+        "subject": "Physics",
+        "topic": "Magnetism",
+        "difficulty": "Medium",
+        "marks": 5
+      },
+      {
+        "question": "Explain the theory of relativity.",
+        "subject": "Physics",
+        "topic": "Modern Physics",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "What is the reaction mechanism of photosynthesis?",
+        "subject": "Chemistry",
+        "topic": "Biochemistry",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Solve the differential equation: dy/dx = y",
+        "subject": "Mathematics",
+        "topic": "Differential Equations",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of quantum entanglement.",
+        "subject": "Physics",
+        "topic": "Quantum Mechanics",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "What is the process of polymerization?",
+        "subject": "Chemistry",
+        "topic": "Organic Chemistry",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Solve the triple integral: ∫∫∫(x + y + z) dV",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of black holes.",
+        "subject": "Physics",
+        "topic": "Astrophysics",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "What are transition metals?",
+        "subject": "Chemistry",
+        "topic": "Periodic Table",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Find the inverse of the matrix: [[3, 2], [4, 1]]",
+        "subject": "Mathematics",
+        "topic": "Linear Algebra",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of wave-particle duality.",
+        "subject": "Physics",
+        "topic": "Quantum Physics",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of string theory in physics.",
+        "subject": "Physics",
+        "topic": "Theoretical Physics",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Describe the Haber process in industrial chemistry.",
+        "subject": "Chemistry",
+        "topic": "Chemical Processes",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Solve the differential equation: d²y/dx² = -k²y",
+        "subject": "Mathematics",
+        "topic": "Differential Equations",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of nuclear fusion in stars.",
+        "subject": "Physics",
+        "topic": "Astrophysics",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Describe the mechanism of enzyme catalysis.",
+        "subject": "Chemistry",
+        "topic": "Biochemistry",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Solve the triple integral: ∫∫∫(x² + y² + z²) dV",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of dark matter in cosmology.",
+        "subject": "Physics",
+        "topic": "Cosmology",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "What are coordination compounds in chemistry?",
+        "subject": "Chemistry",
+        "topic": "Inorganic Chemistry",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Find the determinant of the matrix: [[5, -2], [3, 4]]",
+        "subject": "Mathematics",
+        "topic": "Linear Algebra",
+        "difficulty": "Hard",
+        "marks": 10
+      },
+      {
+        "question": "Explain the concept of the uncertainty principle.",
+        "subject": "Physics",
+        "topic": "Quantum Mechanics",
+        "difficulty": "Hard",
+        "marks": 10
+      }
+    ]
+  }
+  
